@@ -3,7 +3,7 @@
 In this dashboard, we can see the flight records for each employee of this company.
 <a href="https://www.google.com">project</a>
 
-<img src =’link’/>
+<img src =’https://github.com/JamesonHanna/excel-project/blob/main/bgstock.jpg?raw=true’/>
 
 <ol>
   <li>First item</li>
