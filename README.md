@@ -3,11 +3,10 @@
 In this dashboard, we can see the flight records for each employee of this company.
 <a href="https://www.google.com">project</a>
 
-<img src ="https://github.com/JamesonHanna/excel-project/blob/main/bgstock.jpg?raw=true"/>
-
 <ol>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li>When they traveled</li>
+  <li>Who they booked with</li>
+  <li>Whether or not they booked in advance</li>
+  <li>How much it cost</li>
 </ol>
+<img src ="" width="350" height="auto" >
