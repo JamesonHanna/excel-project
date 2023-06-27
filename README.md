@@ -1,12 +1,21 @@
 # Tableau Project
-## Flight Dashboard
-In this dashboard, we can see the flight records for each employee of this company.
-<a href="https://www.google.com">project</a>
 
-<ol>
+**Flight Budget Dashboard**  
+
+We can see the flight records for each employee of this company, including:
+
+<ul>
   <li>When they traveled</li>
   <li>Who they booked with</li>
-  <li>Whether or not they booked in advance</li>
   <li>How much it cost</li>
-</ol>
-<img src ="https://raw.githubusercontent.com/JamesonHanna/excel-project/6e2f96f9dd1cdeb8f5a4701572fe45a7b7ffde44/bgstock.jpg" width="350" height="auto" >
+</ul>
+
+<img src ="https://github.com/JamesonHanna/excel-project/blob/main/Screenshot%20(4).png?raw=true" width="700" height="auto" >
+                                                       \     
+<p align="center">
+<img src ="https://github.com/JamesonHanna/excel-project/blob/main/Screenshot%20(4).png?raw=true" width="700" height="auto" >
+</p>
+<p align="right">
+<img src ="https://github.com/JamesonHanna/excel-project/blob/main/Screenshot%20(4).png?raw=true" width="700" height="auto" >
+</p>
+
