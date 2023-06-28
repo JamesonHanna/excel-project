@@ -14,4 +14,3 @@ We can see the flight records for each employee of this company, including:
 
 https://github.com/JamesonHanna/excel-project/assets/137841577/79c5b85f-da64-43b8-b420-9ea234ad2348
 
-dd
